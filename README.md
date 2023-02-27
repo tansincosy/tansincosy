@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tansincosy](https://github.com/tansincosy)
 
-- 📝 I regularly write articles on [https://github.com/tansincosy/tansincosy-blog](https://github.com/tansincosy/tansincosy-blog)
+- 📝 I regularly write articles on [https://blog.cyatime.com](https://blog.cyatime.com)
 
 - 💬 Ask me about **react vue**
 
